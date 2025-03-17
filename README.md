@@ -1,4 +1,4 @@
-<h1 align="center"> challenge-Sheyla-Tapia Amigo Secreto </h1>
+<h1 align="center"> Challenge-Sheyla-Janett-Tapia Amigo Secreto </h1>
 ## :hammer:Funcionalidades del proyecto
 
 - `Funcionalidad 1`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
